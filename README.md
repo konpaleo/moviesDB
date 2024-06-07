@@ -1,5 +1,5 @@
 # moviesDB
-SQL code for transforming movie data into a normalized transient DuckDB database.\
+SQL script for transforming a movies dataset into a normalized transient DuckDB database.\
 The file "movies.csv" contains the raw data gathered from various movie-aggregator websites.
 
 The script performs tasks including:
